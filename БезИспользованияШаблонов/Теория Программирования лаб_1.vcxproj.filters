@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\seminar_3">
+      <UniqueIdentifier>{4f0d570a-18d1-45e0-bfcf-918e4af00abc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\seminar_4">
+      <UniqueIdentifier>{67acc086-4f93-403a-b897-65c0323cb02f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\seminar_5">
+      <UniqueIdentifier>{5da7afd0-d849-4734-b25c-ea4714559d75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Menu">
+      <UniqueIdentifier>{94e15e9b-d264-4bda-8fb3-bff2f51d57a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="seminar_3.cpp">
+      <Filter>Исходные файлы\seminar_3</Filter>
+    </ClCompile>
+    <ClCompile Include="seminar_4.cpp">
+      <Filter>Исходные файлы\seminar_4</Filter>
+    </ClCompile>
+    <ClCompile Include="seminar_5.cpp">
+      <Filter>Исходные файлы\seminar_5</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenu.cpp">
+      <Filter>Исходные файлы\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="summ_odd_number.cpp">
+      <Filter>Исходные файлы\seminar_3</Filter>
+    </ClCompile>
+    <ClCompile Include="search_summ_minus.cpp">
+      <Filter>Исходные файлы\seminar_3</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Исходные файлы\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="max_sum_over_main_diagonal.cpp">
+      <Filter>Исходные файлы\seminar_4</Filter>
+    </ClCompile>
+    <ClCompile Include="max_sum_under_main_diagonal.cpp">
+      <Filter>Исходные файлы\seminar_4</Filter>
+    </ClCompile>
+    <ClCompile Include="comparison_over_and_under_sum.cpp">
+      <Filter>Исходные файлы\seminar_4</Filter>
+    </ClCompile>
+    <ClCompile Include="compos_negitave_element.cpp">
+      <Filter>Исходные файлы\seminar_4</Filter>
+    </ClCompile>
+    <ClCompile Include="search_first_index_of_negative_element.cpp">
+      <Filter>Исходные файлы\seminar_3</Filter>
+    </ClCompile>
+    <ClCompile Include="search_last_index_of_negative_element.cpp">
+      <Filter>Исходные файлы\seminar_3</Filter>
+    </ClCompile>
+    <ClCompile Include="change_num_to_zero.cpp">
+      <Filter>Исходные файлы\seminar_3</Filter>
+    </ClCompile>
+    <ClCompile Include="Search_row_without_negative_elements.cpp">
+      <Filter>Исходные файлы\seminar_4</Filter>
+    </ClCompile>
+    <ClCompile Include="calculation_first.cpp">
+      <Filter>Исходные файлы\seminar_5</Filter>
+    </ClCompile>
+    <ClCompile Include="failed_scenarios.cpp">
+      <Filter>Исходные файлы\seminar_3</Filter>
+    </ClCompile>
+    <ClCompile Include="Finding_the_sum_of_elements_with_odd_numbers.cpp">
+      <Filter>Исходные файлы\seminar_3</Filter>
+    </ClCompile>
+    <ClCompile Include="Finding_the_maximum_sum_of_diagonal_elements.cpp">
+      <Filter>Исходные файлы\seminar_4</Filter>
+    </ClCompile>
+    <ClCompile Include="Finding the product of string elements.cpp">
+      <Filter>Исходные файлы\seminar_4</Filter>
+    </ClCompile>
+    <ClCompile Include="result.cpp">
+      <Filter>Исходные файлы\seminar_3</Filter>
+    </ClCompile>
+    <ClCompile Include="sorting.cpp">
+      <Filter>Исходные файлы\seminar_3</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Prototypes.h">
+      <Filter>Исходные файлы\Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Libraries.h">
+      <Filter>Исходные файлы\Файлы заголовков</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

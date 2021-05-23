@@ -1,0 +1,27 @@
+﻿  Choice_Type.cpp
+  calculation_first.cpp
+  seminar_5.cpp
+  main.cpp
+  MainMenu.cpp
+C:\Users\Я\Desktop\ТЕХНОЛОГИИ ПРОГРАММИРОВАНИЯ\Шаблоны\Laba1\change_num_to_zero.h(18,12): warning C4244: return: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Я\Desktop\ТЕХНОЛОГИИ ПРОГРАММИРОВАНИЯ\Шаблоны\Laba1\result.h(8): message : выполняется компиляция ссылки на экземпляр шаблон функции "T change_num_to_zero<T>(T *,int)"
+          with
+          [
+              T=float
+          ]
+C:\Users\Я\Desktop\ТЕХНОЛОГИИ ПРОГРАММИРОВАНИЯ\Шаблоны\Laba1\seminar_3.h(47): message : выполняется компиляция ссылки на экземпляр шаблон функции "void result<T>(T *,int)"
+          with
+          [
+              T=float
+          ]
+C:\Users\Я\Desktop\ТЕХНОЛОГИИ ПРОГРАММИРОВАНИЯ\Шаблоны\Laba1\MainMenu.cpp(25): message : выполняется компиляция ссылки на экземпляр шаблон функции "void seminar_3<float>(T)"
+          with
+          [
+              T=float
+          ]
+  Создание кода...
+  Laba1.vcxproj -> C:\Users\Я\Desktop\ТЕХНОЛОГИИ ПРОГРАММИРОВАНИЯ\Шаблоны\Debug\Laba1.exe

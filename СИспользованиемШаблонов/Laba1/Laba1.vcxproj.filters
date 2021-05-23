@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\Menu">
+      <UniqueIdentifier>{d3f042c7-aae7-493c-adde-6e38725c0b0c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\seminar 3">
+      <UniqueIdentifier>{5b379ea5-2819-4ff7-8fd8-4b5dd77f5694}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\seminar 4">
+      <UniqueIdentifier>{4bbb990f-ab23-49ec-b8a8-ba7cd8ebdddf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\seminar 5">
+      <UniqueIdentifier>{31896a0f-f1b6-4f5b-90f2-cd231033f4d4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="change_num_to_zero.h">
+      <Filter>Исходные файлы\seminar 3</Filter>
+    </ClInclude>
+    <ClInclude Include="EnterData.h">
+      <Filter>Исходные файлы\seminar 3</Filter>
+    </ClInclude>
+    <ClInclude Include="failed_scenarios.h">
+      <Filter>Исходные файлы\seminar 3</Filter>
+    </ClInclude>
+    <ClInclude Include="Finding_the_sum_of_elements_with_odd_numbers.h">
+      <Filter>Исходные файлы\seminar 3</Filter>
+    </ClInclude>
+    <ClInclude Include="result.h">
+      <Filter>Исходные файлы\seminar 3</Filter>
+    </ClInclude>
+    <ClInclude Include="search_first_index_of_negative_element.h">
+      <Filter>Исходные файлы\seminar 3</Filter>
+    </ClInclude>
+    <ClInclude Include="search_last_index_of_negative_element.h">
+      <Filter>Исходные файлы\seminar 3</Filter>
+    </ClInclude>
+    <ClInclude Include="search_summ_minus.h">
+      <Filter>Исходные файлы\seminar 3</Filter>
+    </ClInclude>
+    <ClInclude Include="seminar_3.h">
+      <Filter>Исходные файлы\seminar 3</Filter>
+    </ClInclude>
+    <ClInclude Include="sorting.h">
+      <Filter>Исходные файлы\seminar 3</Filter>
+    </ClInclude>
+    <ClInclude Include="summ_odd_number.h">
+      <Filter>Исходные файлы\seminar 3</Filter>
+    </ClInclude>
+    <ClInclude Include="comparison_over_and_under_sum.h">
+      <Filter>Исходные файлы\seminar 4</Filter>
+    </ClInclude>
+    <ClInclude Include="compos_negitave_element.h">
+      <Filter>Исходные файлы\seminar 4</Filter>
+    </ClInclude>
+    <ClInclude Include="EnterData_2.h">
+      <Filter>Исходные файлы\seminar 4</Filter>
+    </ClInclude>
+    <ClInclude Include="Finding_the_maximum_sum_of_diagonal_elements.h">
+      <Filter>Исходные файлы\seminar 4</Filter>
+    </ClInclude>
+    <ClInclude Include="max_sum_over_main_diagonal.h">
+      <Filter>Исходные файлы\seminar 4</Filter>
+    </ClInclude>
+    <ClInclude Include="max_sum_under_main_diagonal.h">
+      <Filter>Исходные файлы\seminar 4</Filter>
+    </ClInclude>
+    <ClInclude Include="seminar_4.h">
+      <Filter>Исходные файлы\seminar 4</Filter>
+    </ClInclude>
+    <ClInclude Include="functions.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Libraries.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Finding_the_product_of_string_elements.h">
+      <Filter>Исходные файлы\seminar 4</Filter>
+    </ClInclude>
+    <ClInclude Include="search_row_without_negative_element.h">
+      <Filter>Исходные файлы\seminar 4</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="calculation_first.cpp">
+      <Filter>Исходные файлы\seminar 5</Filter>
+    </ClCompile>
+    <ClCompile Include="seminar_5.cpp">
+      <Filter>Исходные файлы\seminar 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Choice_Type.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenu.cpp">
+      <Filter>Исходные файлы\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Исходные файлы\Menu</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
